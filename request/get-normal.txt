@@ -1,0 +1,8 @@
+GET / HTTP/1.1
+Host: localhost
+User-Agent: curl/7.54.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Upgrade-Insecure-Requests: 1
+Connection: close
+

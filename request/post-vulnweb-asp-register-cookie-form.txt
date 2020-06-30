@@ -1,0 +1,15 @@
+POST /Register.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D19 HTTP/1.1
+Host: testasp.vulnweb.com
+User-Agent: Mozilla/5.0 (Nintendo 3DS; U; ; en) Version/1.7412.EU
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 155
+Origin: http://testasp.vulnweb.com
+Connection: close
+Referer: http://testasp.vulnweb.com/Register.asp?RetURL=%2Fshowthread%2Easp%3Fid%3D19
+Cookie: ASPSESSIONIDQATACAQQ=PFFCKNIBMGAHJAEEIJJBCOJH
+Upgrade-Insecure-Requests: 1
+
+tfUName=crash_override&tfRName=Hongg+American&tfEmail=fuzzy_lop%40gmail.com&tfUPass=Hn8c2n9*%5EB%23%25%5E%28*%21B08wN%29%28%23*%25FENOInoINo8NY%28%23*%25

@@ -1,0 +1,4 @@
+HEAD / HTTP/1.1
+Authorization: Bearer mt0dgHmLJMVQhvjpNXDyA83vA_PxH23Y
+Accept: application/json
+Host: 127.0.0.1

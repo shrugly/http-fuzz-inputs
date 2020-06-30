@@ -1,0 +1,11 @@
+GET /component---src-pages-a7e2ba4928138f61d768.js HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://localhost
+X-Moz: prefetch
+Connection: close
+Cookie: pas_js_user={%22id%22:null%2C%22anonymousId%22:%221aad5880-2abf-4692-8a1f-cefda17f8159%22%2C%22hash%22:null}; pas_js_retry_queue=[]; isStranger=false; _ga=GA1.2.30880907.1593529577; _gid=GA1.2.4060488.1593529577; _gat=1; _fbp=fb.1.1593529577925.1659477881; intercom-id-l5gc2yay=b8025c83-b24a-45ad-b92f-4ebf1d732e5e; intercom-session-l5gc2yay=
+
